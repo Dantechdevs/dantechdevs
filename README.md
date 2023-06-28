@@ -30,8 +30,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ian_kumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ian_kumu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ian-kumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian-kumu" height="30" width="40" /></a>
+<a href="https://twitter.com/daniel_ngwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daniel_ngwasi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel_ngwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ian-kumu" height="30" width="40" /></a>
 <a href="https://www.iankumu.com/blog/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.iankumu.com/blog/feed/" height="30" width="40" /></a>
 </p>
 
@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iankumu&show_icons=true&locale=en&count_private=true" alt="iankumu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iankumu" alt="iankumu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielngwasi" alt="danielngwasi" /></p>
