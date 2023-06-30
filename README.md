@@ -16,8 +16,7 @@ I am also an open-source enthusiast and maintainer. I have learned a lot from th
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=Dantechdevs&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Dantechdevs&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
