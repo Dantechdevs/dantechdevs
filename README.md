@@ -25,12 +25,21 @@ I am also an open-source enthusiast and maintainer. I have learned a lot from th
 
 ### 💬 Let’s Connect & Collaborate
 
-- 💡 I’m always excited to talk about **code, design, innovation, space exploration, and life lessons**.  
+- 💡 Open to discuss **software ideas, digital transformation, innovation, and community tech projects**  
 - 📧 **Email:**  
   - dantechdevs@gmail.com  
+  - daniel@dantechdevs.com  
 - 💬 **WhatsApp:** [+254 712 328 150](https://wa.me/254712328150)  
-- 🤝 Open to **collaboration**, **freelance projects**, and **open-source contributions**.  
-- 🌍 Let’s build something impactful together!
+- 🌍 **Portfolio:** [https://dantechdevs.github.io](https://dantechdevs.github.io)  
+- 💼 **LinkedIn:** [linkedin.com/in/daniel-ngwasi](https://linkedin.com/in/daniel-ngwasi)
+
+---
+
+### ⚡ Quick Facts
+- 🧩 I love solving real-world problems through code  
+- 🎯 Always improving my UI/UX design and backend performance skills  
+- 🌱 Learning **Next.js**, **FastAPI**, and **AI integration**  
+- ☕ Fueled by coffee and clean code  
 
 <br>
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="Coding GIF">
