@@ -1,4 +1,4 @@
-enhance this code
+
 # 💫About Me :
 Hi, i'm Daniel Ngwasi, a passionate self-taught full stack web developer and a freelance Web designer and developer from Kenya. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -24,7 +24,6 @@ I am also an open-source enthusiast and maintainer. I have learned a lot from th
 
 - 💬 Ask me about Code, food, Space crafts, and life.
 - 📫 How to reach me: dantechdevs@gmail.com
-- 📫 How to reach me: daniel@dantechdevs.com
 - WhatsApp +254712328150
 
 <br>
