@@ -28,7 +28,6 @@ I am also an open-source enthusiast and maintainer. I have learned a lot from th
 - 💡 I’m always excited to talk about **code, design, innovation, space exploration, and life lessons**.  
 - 📧 **Email:**  
   - dantechdevs@gmail.com  
-  - daniel@dantechdevs.com  
 - 💬 **WhatsApp:** [+254 712 328 150](https://wa.me/254712328150)  
 - 🤝 Open to **collaboration**, **freelance projects**, and **open-source contributions**.  
 - 🌍 Let’s build something impactful together!
