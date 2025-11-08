@@ -21,7 +21,19 @@ I am also an open-source enthusiast and maintainer. I have learned a lot from th
 
 [![](https://visitcount.itsvg.in/api?id=Dantechdevs&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about Code, food, Space crafts, and life.
-- 📫 How to reach me: dantechdevs@gmail.com
-- 📫 How to reach me: daniel@dantechdevs.com
-- WhatsApp +254712328150
+---
+
+### 💬 Let’s Connect & Collaborate
+
+- 💡 I’m always excited to talk about **code, design, innovation, space exploration, and life lessons**.  
+- 📧 **Email:**  
+  - dantechdevs@gmail.com  
+  - daniel@dantechdevs.com  
+- 💬 **WhatsApp:** [+254 712 328 150](https://wa.me/254712328150)  
+- 🤝 Open to **collaboration**, **freelance projects**, and **open-source contributions**.  
+- 🌍 Let’s build something impactful together!
+
+<br>
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="Coding GIF">
+
+---
