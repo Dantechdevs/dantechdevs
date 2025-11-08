@@ -1,7 +1,17 @@
 # 💫About Me :
-Hi, i'm Daniel Ngwasi, a passionate self-taught full stack web developer and a freelance Web designer and developer from Kenya. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+# 👋 Hi, I’m Daniel Ngwasi  
 
-I am also an open-source enthusiast and maintainer. I have learned a lot from the open-source community and I really love how collaboration and knowledge sharing happened through open-source.
+I’m a passionate self-taught **Full Stack Web Developer** and **Freelance Web Designer** from **Kenya 🇰🇪**.  
+I love turning creative ideas into real-world projects with clean, functional, and visually appealing interfaces.  
+
+💻 I care deeply about **user experience**, **code quality**, and **scalable architecture** — crafting solutions that truly make an impact.  
+🌱 I’m always learning, exploring new technologies, and improving my craft across the full stack.  
+🤝 I’m also an **open-source enthusiast**, inspired by how collaboration and knowledge-sharing empower developers to build amazing things together.  
+
+---
+
+### ✨ *Code. Create. Inspire.* 🚀  
+
 [:heart: Sponsor](https://github.com/sponsors/laike9m)
 
 ## 🌐Socials
@@ -28,7 +38,6 @@ I am also an open-source enthusiast and maintainer. I have learned a lot from th
 - 💡 Open to discuss **software ideas, digital transformation, innovation, and community tech projects**  
 - 📧 **Email:**  
   - dantechdevs@gmail.com  
-  - daniel@dantechdevs.com  
 - 💬 **WhatsApp:** [+254 712 328 150](https://wa.me/254712328150)  
 - 🌍 **Portfolio:** [https://dantechdevs.github.io](https://dantechdevs.github.io)  
 - 💼 **LinkedIn:** [linkedin.com/in/daniel-ngwasi](https://linkedin.com/in/daniel-ngwasi)
