@@ -1,15 +1,36 @@
 # 💫 About Me
 
-| 👋 Hi, I’m Daniel Ngwasi |
-|:-------------------------:|
-| A passionate self-taught **Full Stack Web Developer** and **Freelance Web Designer** from **Kenya 🇰🇪**. |
-| I love turning creative ideas into real-world projects with **clean**, **functional**, and **visually appealing interfaces**. |
-| 💻 Care about **user experience**, **code quality**, and **scalable architecture**. |
-| 🌱 Constantly exploring **new technologies** across the full stack. |
-| 🤝 Open-source enthusiast, inspired by **collaboration** and **knowledge-sharing**. |
-| ✨ **Code. Create. Inspire. 🚀** |
+<!-- Hero Section -->
+<table width="100%" style="border-radius: 15px; background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
+<tr>
+<td align="center">
 
----
+# 💫 Hi, I’m Daniel Ngwasi 👋
+
+**Full Stack Web Developer | Freelance Web Designer | Open-Source Enthusiast**  
+
+🇰🇪 Based in Kenya  
+
+💻 I love **turning ideas into real-world projects** with clean, functional, and visually appealing interfaces.  
+🌱 Constantly exploring **new technologies** across the full stack.  
+🤝 Passionate about **open-source**, collaboration, and knowledge sharing.  
+
+✨ **Code. Create. Inspire. 🚀**
+
+<br>
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="350" alt="Coding GIF">
+
+<br>
+
+<!-- Connect Badges -->
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/daniel.ngwasi.9/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-ngwasi) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ngwasidaniel)
+
+</td>
+</tr>
+</table>
+
 
 ## 🌐 Connect with Me
 
