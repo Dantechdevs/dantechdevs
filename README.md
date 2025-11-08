@@ -1,6 +1,5 @@
 # 💫About Me :
-# 👋 Hi, I’m Daniel Ngwasi  
-
+👋 Hi, I’m Daniel Ngwasi  
 I’m a passionate self-taught **Full Stack Web Developer** and **Freelance Web Designer** from **Kenya 🇰🇪**.  
 I love turning creative ideas into real-world projects with clean, functional, and visually appealing interfaces.  
 
