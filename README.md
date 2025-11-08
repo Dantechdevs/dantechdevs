@@ -1,16 +1,8 @@
+enhance this code
 # 💫About Me :
-👋 Hi, I’m Daniel Ngwasi  
-I’m a passionate self-taught **Full Stack Web Developer** and **Freelance Web Designer** from **Kenya 🇰🇪**.  
-I love turning creative ideas into real-world projects with clean, functional, and visually appealing interfaces.  
+Hi, i'm Daniel Ngwasi, a passionate self-taught full stack web developer and a freelance Web designer and developer from Kenya. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-💻 I care deeply about **user experience**, **code quality**, and **scalable architecture** — crafting solutions that truly make an impact.  
-🌱 I’m always learning, exploring new technologies, and improving my craft across the full stack.  
-🤝 I’m also an **open-source enthusiast**, inspired by how collaboration and knowledge-sharing empower developers to build amazing things together.  
-
----
-
-### ✨ *Code. Create. Inspire.* 🚀  
-
+I am also an open-source enthusiast and maintainer. I have learned a lot from the open-source community and I really love how collaboration and knowledge sharing happened through open-source.
 [:heart: Sponsor](https://github.com/sponsors/laike9m)
 
 ## 🌐Socials
@@ -30,26 +22,15 @@ I love turning creative ideas into real-world projects with clean, functional, a
 
 [![](https://visitcount.itsvg.in/api?id=Dantechdevs&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
 
----
-
-### 💬 Let’s Connect & Collaborate
-
-- 💡 Open to discuss **software ideas, digital transformation, innovation, and community tech projects**  
-- 📧 **Email:**  
-  - dantechdevs@gmail.com  
-- 💬 **WhatsApp:** [+254 712 328 150](https://wa.me/254712328150)  
-- 🌍 **Portfolio:** [https://dantechdevs.github.io](https://dantechdevs.github.io)  
-- 💼 **LinkedIn:** [linkedin.com/in/daniel-ngwasi](https://linkedin.com/in/daniel-ngwasi)
-
----
-
-### ⚡ Quick Facts
-- 🧩 I love solving real-world problems through code  
-- 🎯 Always improving my UI/UX design and backend performance skills  
-- 🌱 Learning **Next.js**, **FastAPI**, and **AI integration**  
-- ☕ Fueled by coffee and clean code  
+- 💬 Ask me about Code, food, Space crafts, and life.
+- 📫 How to reach me: dantechdevs@gmail.com
+- 📫 How to reach me: daniel@dantechdevs.com
+- WhatsApp +254712328150
 
 <br>
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="Coding GIF">
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
 
----
+
+Thanks to [ABSphreak](https://www.github.com/manuarora700 ) for letting me know about this cool feature.
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
