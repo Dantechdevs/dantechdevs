@@ -21,7 +21,7 @@ I'm also an **open-source enthusiast and maintainer**. I've learned a lot from t
 - 💬 Ask me about **code, food, space crafts, and life**
 - 📫 Reach me at **dantechdevs@gmail.com**
 - 📱 WhatsApp: **+254712328150**
-- ❤️ [Sponsor my work](https://github.com/sponsors/Daniel-ngwasi)
+- ❤️ [Sponsor my work](https://github.com/sponsors/Dantechdevs)
 
 <br clear="right"/>
 
@@ -134,6 +134,16 @@ I'm also an **open-source enthusiast and maintainer**. I've learned a lot from t
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Evans-mutuku/Evans-mutuku/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-</div
+</div>
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Dantechdevs&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+*Thanks to [ABSphreak](https://github.com/manuarora700) for letting me know about this cool feature.*
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=140&section=footer&animation=twinkling" width="100%"/>
