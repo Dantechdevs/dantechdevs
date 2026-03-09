@@ -35,6 +35,3 @@ I'm also an open-source enthusiast and maintainer. I've learned a lot from the o
 - 💬 Ask me about code, food, space crafts, and life.
 - 📫 How to reach me: dantechdevs@gmail.com
 - WhatsApp: +254712328150
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300">
-Thanks to [ABSphreak](https://www.github.com/manuarora700) for letting me know about this cool feature.
-advance this for my github
