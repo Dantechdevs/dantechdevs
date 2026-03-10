@@ -1,76 +1,124 @@
 <div align="center">
 
-# 👋 Hi, I'm Daniel Ngwasi
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39ff14,100:0d1117&height=120&section=header&text=Daniel%20Ngwasi&fontSize=42&fontColor=39ff14&fontAlignY=65&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20Freelance%20Designer%20%C2%B7%20Open%20Source%20Builder%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=85&descSize=14&descColor=8b949e"/>
 
-### Full-Stack Engineer · Freelance Designer · Open Source Builder 🇰🇪
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Self-taught+Full-Stack+Developer+%F0%9F%9A%80;Building+elegant+interfaces+from+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Open+source+enthusiast+%26+maintainer+%E2%9C%A8;React+%7C+Django+%7C+Laravel+%7C+Python+%7C+PHP)](https://git.io/typing-svg)
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=const+daniel+%3D+new+FullStackEngineer(%22Nairobi%22)+%F0%9F%9A%80;Building+AI-powered+web+experiences+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;React+%7C+Django+%7C+Laravel+%7C+Next.js+%7C+TypeScript;6%2C050%2B+day+GitHub+streak+%F0%9F%94%A5+and+counting...;Open+source+enthusiast+%26+maintainer+%E2%9C%A8;Ship+it.+Learn.+Iterate.+Repeat.)](https://git.io/typing-svg)
 
 <br/>
 
-![Status](https://img.shields.io/badge/🟢_Status-Available_for_Hire-0a0e1a?style=for-the-badge&labelColor=0a0e1a&color=39ff14)
-![Location](https://img.shields.io/badge/📍_Location-Nairobi,_Kenya-0a0e1a?style=for-the-badge&labelColor=0a0e1a&color=4ade80)
-![Streak](https://img.shields.io/badge/🔥_Streak-6%2C050%2B_Days-0a0e1a?style=for-the-badge&labelColor=0a0e1a&color=ff4d6d)
-![Profile Views](https://komarev.com/ghpvc/?username=Dantechdevs&style=for-the-badge&color=39ff14&labelColor=0a0e1a&label=PROFILE+VIEWS)
+<!-- LIVE STATUS BADGES -->
+![Status](https://img.shields.io/badge/🟢_Status-Available_for_Hire-0d1117?style=for-the-badge&labelColor=0d1117&color=39ff14)
+![Location](https://img.shields.io/badge/📍_Nairobi,_Kenya-0d1117?style=for-the-badge&labelColor=0d1117&color=4ade80)
+![Streak](https://img.shields.io/badge/🔥_Streak-6%2C050%2B_Days-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4d6d)
+[![Profile Views](https://komarev.com/ghpvc/?username=Dantechdevs&style=for-the-badge&color=39ff14&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Dantechdevs)
 
 </div>
 
 ---
 
-## 💫 About Me
+## `daniel.init()`
 
-<img align="right" width="260" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"/>
 
 ```ts
+// ~/profile — zsh
+// initializing daniel.ngwasi...
+
 const daniel = {
-  name:     "Daniel Ngwasi",
-  alias:    "Dantechdevs",
-  location: "Nairobi, Kenya 🇰🇪",
-  role:     ["Full-Stack Engineer", "Freelance Designer"],
-  focus:    "AI-powered web experiences",
-  streak:   "6,050+ days 🔥 and counting",
-  motto:    "Ship it. Learn. Iterate. Repeat.",
+  name:       "Daniel Ngwasi",
+  alias:      "Dantechdevs",
+  location:   "Nairobi, Kenya 🇰🇪",
+  role:       ["Full-Stack Engineer", "Freelance Designer"],
+  focus:      "AI-powered web experiences",
+  streak:     "6,050+ days 🔥",
+  openSource: true,
+  available:  true,                    // ← hire me
+  motto:      "Ship it. Learn. Iterate. Repeat.",
+  contact: {
+    email:    "dantechdevs@gmail.com",
+    whatsapp: "+254712328150",
+  },
 };
+
+// status: ✅ online
 ```
 
-Passionate self-taught **full-stack web developer** and **freelance web designer** from 🇰🇪 Kenya. My passion lies in dreaming up ideas and bringing them to life with **elegant interfaces**. I take great care in the experience, architecture, and code quality of everything I build.
+Passionate **self-taught full-stack developer** and **freelance web designer** from 🇰🇪 Kenya.  
+My passion lies in dreaming up ideas and bringing them to life with **elegant interfaces**.  
+I take great care in the experience, architecture, and code quality of everything I build.
 
-I'm also an **open-source enthusiast and maintainer** — I've learned a lot from the open-source community and love the collaboration and knowledge sharing that comes with it.
-
-- 🔥 **6,050+ day GitHub streak** — consistency is the superpower
+- 🔥 **6,050+ consecutive days** on GitHub — consistency is the superpower
+- 🌐 Building **AI-powered web experiences** from Nairobi
+- 🤝 Open-source **enthusiast and maintainer**
 - 💬 Ask me about **code, food, space crafts, and life**
-- 📫 **dantechdevs@gmail.com**
-- 📱 WhatsApp: **+254712328150**
-- ❤️ [Sponsor my work](https://github.com/sponsors/Dantechdevs)
+- 📫 **dantechdevs@gmail.com** · 📱 **+254712328150**
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Socials
+## 🌐 `.socials()`
 
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/daniel.ngwasi.9/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-n-29924a69/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ngwasidaniel)
+[![Twitter](https://img.shields.io/badge/𝕏_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ngwasidaniel)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantechdevs@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254712328150)
-[![Sponsor](https://img.shields.io/badge/Sponsor_Me-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Dantechdevs)
+[![Sponsor](https://img.shields.io/badge/❤️_Sponsor-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Dantechdevs)
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 📊 `.stats()` — Live GitHub Data
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dantechdevs&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=8b949e&border_radius=10"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantechdevs&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=39ff14&text_color=8b949e&border_radius=10"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dantechdevs&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39ff14&fire=ff4d6d&currStreakLabel=39ff14&sideLabels=8b949e&dates=8b949e&border_radius=10)](https://git.io/streak-stats)
+
+<br/>
+
+> 🔥 **Verified streak: 6,050+ days** — that's 16+ years of shipping code every single day.
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dantechdevs&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff1420&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 `.trophies()`
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dantechdevs&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💻 `.techStack()`
 
 ```
-Languages     JavaScript  TypeScript  Python  PHP  C#  C++  C  HTML5  CSS3
-Frontend      React  React Native  Next.js  TailwindCSS
-Backend       Django  Laravel  Node.js  Apache  REST APIs
-Databases     MySQL  Microsoft SQL Server  MongoDB
-Cloud         Google Cloud  Docker  Linux
-AI / ML       PyTorch  Pandas  NumPy  Plotly
+┌─────────────────────────────────────────────────────────────────────────┐
+│  LANGUAGES    JS · TS · Python · PHP · C# · C++ · C · HTML5 · CSS3     │
+│  FRONTEND     React · React Native · Next.js · TailwindCSS              │
+│  BACKEND      Django · Laravel · Node.js · Apache · REST APIs           │
+│  DATABASES    MySQL · SQL Server · MongoDB                               │
+│  CLOUD        Google Cloud · Docker · Linux                              │
+│  AI / ML      PyTorch · Pandas · NumPy · Plotly                         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -100,42 +148,29 @@ AI / ML       PyTorch  Pandas  NumPy  Plotly
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 `.contributions()`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dantechdevs&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=8b949e"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantechdevs&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=39ff14&text_color=8b949e"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dantechdevs/Dantechdevs/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dantechdevs/Dantechdevs/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Dantechdevs/Dantechdevs/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+</picture>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dantechdevs&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39ff14&fire=ff4d6d&currStreakLabel=39ff14&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
-
-> 🔥 **Current streak: 6,050+ days** — a testament to showing up every single day.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dantechdevs&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+> ⚙️ Setup: Add `.github/workflows/snake.yml` — [guide here](https://github.com/Platane/snk)
 
 </div>
 
 ---
 
-## ✍️ Dev Quote
+## ✍️ `.devQuote()`
 
 <div align="center">
 
@@ -145,30 +180,20 @@ AI / ML       PyTorch  Pandas  NumPy  Plotly
 
 ---
 
-## 🐍 Contribution Snake
+## 🤝 `.collaborate()`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dantechdevs/Dantechdevs/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dantechdevs/Dantechdevs/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Dantechdevs/Dantechdevs/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
-</picture>
+```ts
+if (project.isInteresting() || budget.isRight()) {
+  daniel.respond({ within: "24h", from: "Nairobi" });
+}
+```
 
-> Setup: Add `.github/workflows/snake.yml` — [guide here](https://github.com/Platane/snk)
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Let's build something great together
-
-**dantechdevs@gmail.com** &nbsp;·&nbsp; **+254712328150** &nbsp;·&nbsp; [❤️ Sponsor](https://github.com/sponsors/Dantechdevs)
+**📫 dantechdevs@gmail.com** &nbsp;·&nbsp; **📱 +254712328150** &nbsp;·&nbsp; [❤️ Sponsor my work](https://github.com/sponsors/Dantechdevs)
 
 <br/>
 
-*Thanks to [ABSphreak](https://github.com/manuarora700) for this cool feature.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39ff14,100:0d1117&height=80&section=footer&animation=fadeIn"/>
 
 </div>
