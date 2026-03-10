@@ -3,6 +3,16 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39ff14,100:0d1117&height=120&section=header&text=Daniel%20Ngwasi&fontSize=42&fontColor=39ff14&fontAlignY=65&animation=fadeIn&desc=Full-Stack%20Engineer%20%C2%B7%20Freelance%20Designer%20%C2%B7%20Open%20Source%20Builder%20%F0%9F%87%B0%F0%9F%87%AA&descAlignY=85&descSize=14&descColor=8b949e"/>
 
+<!-- SIDE ANIMATIONS (borrowed from supuna97 style) -->
+<a href="https://github.com/Dantechdevs">
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%"/>
+</a>
+<a href="https://github.com/Dantechdevs">
+  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%"/>
+</a>
+
+<br/>
+
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=const+daniel+%3D+new+FullStackEngineer(%22Nairobi%22)+%F0%9F%9A%80;Building+AI-powered+web+experiences+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;React+%7C+Django+%7C+Laravel+%7C+Next.js+%7C+TypeScript;6%2C050%2B+day+GitHub+streak+%F0%9F%94%A5+and+counting...;Open+source+enthusiast+%26+maintainer+%E2%9C%A8;Ship+it.+Learn.+Iterate.+Repeat.)](https://git.io/typing-svg)
 
@@ -14,13 +24,15 @@
 ![Streak](https://img.shields.io/badge/🔥_Streak-6%2C050%2B_Days-0d1117?style=for-the-badge&labelColor=0d1117&color=ff4d6d)
 [![Profile Views](https://komarev.com/ghpvc/?username=Dantechdevs&style=for-the-badge&color=39ff14&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Dantechdevs)
 
+<br clear="all"/>
+
 </div>
 
 ---
 
 ## `daniel.init()`
 
-<img align="right" width="280" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```ts
 // ~/profile — zsh
@@ -45,15 +57,14 @@ const daniel = {
 // status: ✅ online
 ```
 
-Passionate **self-taught full-stack developer** and **freelance web designer** from 🇰🇪 Kenya.  
-My passion lies in dreaming up ideas and bringing them to life with **elegant interfaces**.  
-I take great care in the experience, architecture, and code quality of everything I build.
+<br/>
 
-- 🔥 **6,050+ consecutive days** on GitHub — consistency is the superpower
-- 🌐 Building **AI-powered web experiences** from Nairobi
-- 🤝 Open-source **enthusiast and maintainer**
-- 💬 Ask me about **code, food, space crafts, and life**
-- 📫 **dantechdevs@gmail.com** · 📱 **+254712328150**
+- 🔭 I'm currently **open to new opportunities**
+- 🌱 I'm currently learning **DevOps & AI/ML Engineering**
+- 👨‍💻 All of my projects are available at **[github.com/Dantechdevs](https://github.com/Dantechdevs)**
+- 💬 Ask me about **React, Django, Laravel, Node.js and TypeScript**
+- 📫 How to reach me: **dantechdevs@gmail.com**
+- ⚡ Fun fact: **6,050+ consecutive days shipping code — consistency is the real superpower**
 
 <br clear="right"/>
 
@@ -74,43 +85,44 @@ I take great care in the experience, architecture, and code quality of everythin
 
 ---
 
-## 📊 `.stats()` — Live GitHub Data
+## 💻 `.techStack()`
+
+<!-- TECH ICON GRID (inspired by supuna97's skillicons layout) -->
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dantechdevs&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=8b949e&border_radius=10"/>
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantechdevs&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=39ff14&text_color=8b949e&border_radius=10"/>
+<!-- Quick visual icons row (like supuna97's techstack-generator icons) -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,cs,cpp,html,css" height="45"/>
+</a>
 
 <br/><br/>
 
-<!-- LIVE STREAK — powered by github.com/DenverCoder1/github-readme-streak-stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dantechdevs&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39ff14&fire=ff4d6d&currStreakNum=39ff14&currStreakLabel=39ff14&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=39ff1420&border_radius=10)](https://streak-stats.demolab.com/?user=Dantechdevs)
+**Backend**
 
-<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,laravel,nodejs,express,fastapi" height="45"/>
+</a>
 
-> 🔥 **Verified streak: 6,050+ days** — 16+ years of shipping code every single day.
+<br/><br/>
 
-<br/>
+**Databases & Cloud**
 
-<!-- ACTIVITY GRAPH -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dantechdevs&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff1420&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,gcp,docker,linux" height="45"/>
+</a>
+
+<br/><br/>
+
+**Tools**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,pytorch" height="45"/>
+</a>
 
 </div>
 
----
-
-## 🏆 `.trophies()`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dantechdevs&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💻 `.techStack()`
+<br/>
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -123,34 +135,37 @@ I take great care in the experience, architecture, and code quality of everythin
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
+---
+
+## 📊 `.stats()` — Live GitHub Data
+
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Dantechdevs&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=8b949e&border_radius=10"/>
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dantechdevs&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=39ff14&text_color=8b949e&border_radius=10"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<br/><br/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dantechdevs&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39ff14&fire=ff4d6d&currStreakNum=39ff14&currStreakLabel=39ff14&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=39ff1420&border_radius=10)](https://streak-stats.demolab.com/?user=Dantechdevs)
+
+<br/>
+
+> 🔥 **Verified streak: 6,050+ days** — 16+ years of shipping code every single day.
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dantechdevs&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff1420&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 `.trophies()`
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dantechdevs&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -186,6 +201,12 @@ I take great care in the experience, architecture, and code quality of everythin
 
 <div align="center">
 
+<img width="50" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"/>
+
+*<b>I love connecting with different people</b> — if you want to say <b>hi, I'll be happy to meet you!</b> 😊*
+
+<br/>
+
 ```ts
 if (project.isInteresting() || budget.isRight()) {
   daniel.respond({ within: "24h", from: "Nairobi" });
@@ -195,6 +216,8 @@ if (project.isInteresting() || budget.isRight()) {
 **📫 dantechdevs@gmail.com** &nbsp;·&nbsp; **📱 +254712328150** &nbsp;·&nbsp; [❤️ Sponsor my work](https://github.com/sponsors/Dantechdevs)
 
 <br/>
+
+<p align="right">Created with 🧡 by <a href="https://github.com/Dantechdevs">Daniel Ngwasi</a></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39ff14,100:0d1117&height=80&section=footer&animation=fadeIn"/>
 
