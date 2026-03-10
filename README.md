@@ -84,14 +84,16 @@ I take great care in the experience, architecture, and code quality of everythin
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dantechdevs&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39ff14&fire=ff4d6d&currStreakLabel=39ff14&sideLabels=8b949e&dates=8b949e&border_radius=10)](https://git.io/streak-stats)
+<!-- LIVE STREAK — powered by github.com/DenverCoder1/github-readme-streak-stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dantechdevs&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39ff14&fire=ff4d6d&currStreakNum=39ff14&currStreakLabel=39ff14&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=39ff1420&border_radius=10)](https://streak-stats.demolab.com/?user=Dantechdevs)
 
 <br/>
 
-> 🔥 **Verified streak: 6,050+ days** — that's 16+ years of shipping code every single day.
+> 🔥 **Verified streak: 6,050+ days** — 16+ years of shipping code every single day.
 
 <br/>
 
+<!-- ACTIVITY GRAPH -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dantechdevs&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff1420&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
