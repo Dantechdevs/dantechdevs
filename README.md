@@ -10,6 +10,7 @@
 
 ![Status](https://img.shields.io/badge/🟢_Status-Available_for_Hire-0a0e1a?style=for-the-badge&labelColor=0a0e1a&color=39ff14)
 ![Location](https://img.shields.io/badge/📍_Location-Nairobi,_Kenya-0a0e1a?style=for-the-badge&labelColor=0a0e1a&color=4ade80)
+![Streak](https://img.shields.io/badge/🔥_Streak-6%2C050%2B_Days-0a0e1a?style=for-the-badge&labelColor=0a0e1a&color=ff4d6d)
 ![Profile Views](https://komarev.com/ghpvc/?username=Dantechdevs&style=for-the-badge&color=39ff14&labelColor=0a0e1a&label=PROFILE+VIEWS)
 
 </div>
@@ -27,6 +28,7 @@ const daniel = {
   location: "Nairobi, Kenya 🇰🇪",
   role:     ["Full-Stack Engineer", "Freelance Designer"],
   focus:    "AI-powered web experiences",
+  streak:   "6,050+ days 🔥 and counting",
   motto:    "Ship it. Learn. Iterate. Repeat.",
 };
 ```
@@ -35,6 +37,7 @@ Passionate self-taught **full-stack web developer** and **freelance web designer
 
 I'm also an **open-source enthusiast and maintainer** — I've learned a lot from the open-source community and love the collaboration and knowledge sharing that comes with it.
 
+- 🔥 **6,050+ day GitHub streak** — consistency is the superpower
 - 💬 Ask me about **code, food, space crafts, and life**
 - 📫 **dantechdevs@gmail.com**
 - 📱 WhatsApp: **+254712328150**
@@ -117,6 +120,8 @@ AI / ML       PyTorch  Pandas  NumPy  Plotly
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dantechdevs&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39ff14&fire=ff4d6d&currStreakLabel=39ff14&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
+
+> 🔥 **Current streak: 6,050+ days** — a testament to showing up every single day.
 
 ---
 
