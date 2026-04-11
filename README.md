@@ -140,23 +140,7 @@
 <img src="https://render.gitanimals.org/farms/Dantechdevs" width="500"/>
 
 </td>
-<td align="center" width="50%">
 
-## 🎮 TETRIS FUN <img height="40" alt="Daniel Ngwasi" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
-**🎮 Play Tetris with Me!**  
-Watch the blocks stack!
-
-🟦🟥🟩🟨🟪🟦🟨<br>
-🟥🟩🟪🟦🟩🟨🟥<br>
-🟩🟨🟥🟦🟪🟩🟦<br>
-🟪🟦🟨🟥🟩🟦🟨<br>
-🟦🟨🟪🟩🟥🟪🟩<br><br>
-
-Keep stacking and clearing lines! 🚀<br>
-🎮 **Play the real game here:** 👉 https://bit.ly/49wfF2O
-
-</td>
 </tr>
 </table>
 
